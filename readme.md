@@ -31,4 +31,4 @@ pip install -r requirements.txt
 
 👤 Author
 
-Jenil Prajapati
+Jenil Prajapati.
